@@ -3,11 +3,9 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=officialpog&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 ## Hey
@@ -68,7 +66,6 @@ I focus on learning cybersecurity through hands-on practice—CTFs, labs, and co
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
