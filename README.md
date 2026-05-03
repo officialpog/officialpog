@@ -3,12 +3,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=officialpog&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
----
 
-## Hey
+## POG
 
 I focus on learning cybersecurity through hands-on practice—CTFs, labs, and controlled exploitation environments. I prefer understanding how things break rather than just reading theory.
 
@@ -82,7 +78,7 @@ I focus on learning cybersecurity through hands-on practice—CTFs, labs, and co
 
 ---
 
-## 🧠 Goals
+## Goals
 - Move from CTFs → real-world bug bounty hunting  
 - Build practical security tools  
 - Strengthen exploitation fundamentals  
@@ -90,7 +86,7 @@ I focus on learning cybersecurity through hands-on practice—CTFs, labs, and co
 
 ---
 
-## 📈 Activity
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialpog&theme=tokyo-night&hide_border=true" />
